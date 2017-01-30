@@ -1,0 +1,8 @@
+"--:one
+[#-:1.5
+-"-:two
+#--:3
+[[":hungry
+--/:true
+-[":tired
+--/:false

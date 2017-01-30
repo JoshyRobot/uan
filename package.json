@@ -1,0 +1,12 @@
+{
+  "name": "uan",
+  "version": "1.0.0",
+  "description": "useless array notation",
+  "main": "index.js",
+  "repository": "https://github.com/JoshyRobot/uan.git",
+  "author": "JoshyRobot",
+  "license": "MIT",
+  "dependencies": {
+    "object-path": "^0.11.3"
+  }
+}
